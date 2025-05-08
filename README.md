@@ -30,4 +30,4 @@ The dataset includes variables such as tourist origin, length of stay, total vis
 - Jupyter Notebooks
 
 ## Links:
-- (https://www.bps.go.id/id/statistics-table/2/MzU2IzI=/rata-rata-lama-tinggal-wisatawan-mancanegara-menurut-kebangsaan--hari-.html)
+- https://www.bps.go.id
